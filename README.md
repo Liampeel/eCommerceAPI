@@ -12,6 +12,12 @@ Once you have .NET Core installed, you can install the necessary dependencies by
 
 - dotnet restore
 
+
+After this, you will need to change your appsettings.json file to edit the SQL Server information
+
+<img width="877" alt="image" src="https://user-images.githubusercontent.com/69147114/227825004-644b3d93-99be-41cb-ba01-fccf83d98208.png">
+
+
 # Running the API
 To run the API, navigate to visual studio and click the run project button. a swagger page will open in your browser
 
